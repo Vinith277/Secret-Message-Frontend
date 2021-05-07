@@ -1,0 +1,23 @@
+.headerstyle{
+  text-align: center;
+  background-image: linear-gradient(to left, #C9FFBF, #FFAFBD);
+  height: auto;
+}
+
+body{
+  background-image: linear-gradient(to left, #C9FFBF, #FFAFBD);
+}
+
+.heading {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.deleteMessagebtn {
+  text-align: right;
+  border: 50%;
+}
+
+body {
+  background-image: linear-gradient(to left, #C9FFBF, #FFAFBD);
+}
